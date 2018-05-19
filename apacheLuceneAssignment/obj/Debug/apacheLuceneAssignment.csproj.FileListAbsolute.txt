@@ -1,0 +1,7 @@
+K:\Assignments\apacheLuceneAssignment\apacheLuceneAssignment\apacheLuceneAssignment\bin\Debug\apacheLuceneAssignment.exe.config
+K:\Assignments\apacheLuceneAssignment\apacheLuceneAssignment\apacheLuceneAssignment\bin\Debug\apacheLuceneAssignment.exe
+K:\Assignments\apacheLuceneAssignment\apacheLuceneAssignment\apacheLuceneAssignment\bin\Debug\apacheLuceneAssignment.pdb
+K:\Assignments\apacheLuceneAssignment\apacheLuceneAssignment\apacheLuceneAssignment\bin\Debug\Lucene.Net.dll
+K:\Assignments\apacheLuceneAssignment\apacheLuceneAssignment\apacheLuceneAssignment\obj\Debug\apacheLuceneAssignment.csprojResolveAssemblyReference.cache
+K:\Assignments\apacheLuceneAssignment\apacheLuceneAssignment\apacheLuceneAssignment\obj\Debug\apacheLuceneAssignment.exe
+K:\Assignments\apacheLuceneAssignment\apacheLuceneAssignment\apacheLuceneAssignment\obj\Debug\apacheLuceneAssignment.pdb
